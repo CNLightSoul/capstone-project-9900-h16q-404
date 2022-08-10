@@ -1,0 +1,98 @@
+Work Diary:
+
+Week 1:
+- Missed the tutorial to travel to Canberra to see my partner for the first time in two months.
+- Joined Group 404 after receiving an email from Yunran.
+- Group 404 decided on project 7 - Event Management System.
+
+Week 2 (Thursday-Sunday):
+- Met with the 404 group for the first time.
+- Facilitiated the first proper meeting where we discussed:
+- - The architecture of the application (Node.js, Flask, SQlite).
+- - Discussed the user stories to be implemented and to start with in week 1.
+- - Asked Dylan if we can host the app locally (we can).
+- - Discussed the teams strengths and weaknesses and documented them.
+- - Discussed sprint stuctures and ceremonies (1 week sprints, standups on Thursday in class and Sunday at 10AM).
+- Finally we discussed what work we wanted to have done by Sunday's standup, keeping in mind that we have the proposal due in week 4.
+- My job was to finish off the "core" user stories as the original set of user stories I had created we too general according to feedback from Dylan, I completed this by Saturday night, in preparation for our Sunday morning meeting.
+- I also prepared the agenda for the Sunday 10AM meeting.
+
+Week 3 (Sunday-Thursday):
+- I facilitiated the Sunday standup.
+- I drafted the user story and sprint structure sections of the proposal.
+- I created the JIRA cards for the new novel functions developed by Yunran and Yizhi.
+- I performed a major backlog refinement exercise as some user stories were unclear, unlabeled or even duplicated or missing.
+- I also created the agenda for the Sprint 1 planning/project kick-off meeting.
+
+
+Week 3 (Thursday-Sunday):
+- As scrum master, I created the agenda for our Sunday morning standup, I then facilitiated our standup.
+- The main goal of the standup was to pull together all the work that was done on the proposal and also assign some work for the application.
+- I spent much of Sunday afternoon formatting and gathering all of the work streams and uniting them into the final report and submitting it.
+- Report was submitted Sunday at 9pm ish after I worked on it for about 8 hours.
+- I also did a major JIRA backlog cleanup.
+
+Week 4 (Sunday 19th June - Thursday 23rd June):
+- Created the agenda for our Thursday meeting
+- After having done most of the leg work for the proposal, and being busy with work and other assignments, and being ill, I had a half week off.
+
+Week 4 (Thursday 23rd June - Sunday 26th June):
+- On Friday morning Ganesh and I did a 3 hour session to setup the basic DB, it now exists, can be filled with some dummy data and also can be called by an Events page.
+- I also updated the JIRA cards, added comments to the code and also started the Agenda for our Sunday morning standup
+
+Week 5 (Sunday 26th June - Thursday 30th June):
+- On Tuesday I caught up with Karl (Dezhou) and Ganesh and we had a quick discussion about what further work needs to be done.
+- The whole team then met early on Thursday and we finished the register page feature, tested it together and then merged to main.
+- We then had a discussion about how to perform the demo.
+- I then fixed up the requirements and README for the backend and prepared the sprint review, sprint retro and sprint planning agendas.
+
+Week 5 (Thursday 30th June - Sunday 3rd July):
+- Facilitied the sprint retro and sprint planning session, also typed up the sprint retro document ready or submission
+- Began work on the events backend
+- Added the delete, get and post functionality for event page
+- Facilitiated the Sunday morning standup
+
+Week 6 (Sunday 3rd July - Thursday 7th July):
+- I was quite sick this week and hence development work was limited
+- I still facilitiated the Thursday meeting/sprint planning but not much work was progressed
+- I obviously forgot to click the "start sprint" button in JIRA which messed up our sprint structure
+
+Week 6 (Thursday 7th July - Sunday 10th July):
+- Updated the events table with new event info that was required
+- I updated the Event/POST request and response functionality 
+- Performed some bug fixing 
+- Facilitiated and prepared for the Sunday standup
+- Major co-dev session on Thursday which we unified the frontend and backend
+
+Week 7 (Sunday 10th July - Thursday 14th July):
+- Create event finalised
+- Update event finalised
+- A bunch of pull requests needed to unify the front and backend
+
+Week 7 (Thursday 14th July - Sunday 17th July):
+- Facilitiated the sprint planning meeting
+- Started work on the Tickets table and data model
+- 
+
+Week 8 (Sunday 17th July - Thursday 21st July):
+- Completed the Buy Tickets and My Tickets resources, api calls and relevant db functions
+- Facilitiated and organised the Tuesday co-dev session where frontend and backend work was linked 
+- Planned the code refactor 
+- Facilitated the co-dev frontend and backend unification
+
+Week 8 (Thursday 21st July - Sunday 24th July):
+- Implemented the watchlist backend functionality
+- Faciliated the sprint retro session and submitted the sprint retro report
+- Facilitated sprint planning and updated JIRA cards
+
+Week 9 (Sunday 24th July - Thursday 28th July):
+- Performed a major refactor of the code and split the backend files into class-specific files
+- Worked with Karl to perform the token update
+
+Week 9 (Thursday 28th July - Sunday 31st July):
+- Facilitated sprint planning and updated the JIRA cards
+- Implemented the linter and performed a major review of the code and implemented several linter recommened changes.
+
+Week 10 (Sunday 31st July - Friday 5th August):
+- HUGE team effort from Tuesday to Thursday to complete the final pull requests, prepare for the demo and complete the report
+- Performed the final report review

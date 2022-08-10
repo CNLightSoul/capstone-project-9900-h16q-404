@@ -1,0 +1,65 @@
+week 1
+The first tutorial was not very good since only three students went there. So we found a group of three and sent mails to other students to ask if they want to join us. We had a brief discussion about the choice of our project. Because we did not want to spend much time on some AI based recommendation system we decided to pick project #7 the event management system. I set up the Microsoft Teams channel and invited members.
+We started to use Google document to write the materials and ideas about the proposal and project.
+
+week 2
+Before the lab I wrote some user stories to the shared Google document as log.
+During the tutorial we met each other and dicussed about the project. We made our decisions about the novel features, discussed our strength and weakness and briefly allocated some tasks.
+We also discussed about the basic structure of the project. It would be divided into two parts - frontend and backend, and the backend is also made of two parts, functions and database. The frontend would be ReactJS, backend are Flask and sqlite.
+The scurm master is given to Ben since he is much experienced in project development.
+We decide to take 1 week sprint since most of us is not too busy so that we can change the plan if something goes wrong.
+We decided to have another meeting every Sunday morning and my task this week is to choose a design tool and make some prototypes of storyboard so that after the user stories are given we can transform them into storyboards.
+I chose draw.io ( a website ) and make several boards before Sunday.
+
+Meeting on Sunday and my samples are good. We decide to continue the work and My work is to make all storyboards with Eddie.
+
+week 3
+First two days I worked on boards and on Wednesday I had a meeting with Eddie and we split the workload and finished them later. On Thursday Morning I wrote the description for my storyboards.
+Thursday meeting
+I asked Dylan about the details of payment and refund and got the answer that we do not need to involve actual money but just some mock information.
+Eddie and I showed the boards and desc to the group and discussed about the design. I found some points were not mentioned in user stories.
+I need to finalise the design of the boards and add more text details and descriptions to them.
+Friday and Saturday
+Write details desc and change some design
+Sunday meeting
+We review the draft of the proposal.
+Go through all the boards and find some minor mistakes to fix.
+Unify the different designs between mine and Eddie's.
+I need to design the API between frontend and backend based on the upcoming database (relational model design).
+Finished the graphs before Sunday and fixed some problem.
+
+week 4
+I thought about the API design of the background and had a look at some old projects
+But I think I need more infomation on this.
+Overall API can be divided into two parts: User related API and event related API. And some content may require a combination of several APIs.
+We start to build the frontend and backend. Ben sent me an article about the structure of a similar and simple project and he showed me how the backend is built up and how to add more functions and resources to the backend.
+I discuss the connection between the backend and frontend with the group and decide the structure of the requests. I need to think about the user tokens
+
+week 5
+I wrote the function of login (send request to backend and show the message based on the response) and I had a further look into the tokens.
+I also worked out two topbar buttons.
+Think about the APIs of create and edit events.
+
+week 6
+I worked out the frontends of create events page and edit events page (without add ticketing).
+We don't have lab/tut this week dut to flex week so we meet online. I introduced what I have worked to others. I tested the frontend with Postman.
+
+week 7
+We had a meeting (co-coding) on Tuesday and nearly finished the past tasks. I talked about the token authentication stuff and finished the create/edit pages and fixed some bugs.
+On Thursday we finished the sprint and discussed about the remaing part. We thought the most important part is the ticket system so we planned it thoroughly and we also discussed about other features and assigned them.
+I add the ticket creation section to the create event page and start working on buy tickets.
+
+week 8
+I kept working on buy tickets pages and fixed various bugs. We had meeting on Tuesday, Thursday and Sunday.
+The ticket system is finished. I merged the backend written by Ben and they worked well with each other. We received some comments on our current implementation.
+I plan to work out the follow/watchlist feature
+
+week 9
+Working on follow button and watchlist. After merging the backend it seems to be work with some minor bugs, I fixed them.
+I tested the ways to add images to the current website. Later on I need to put it to the right place and add the same stuff to user profile.
+A team member got covid, which slowed our progress a bit.
+
+week 10
+We refactor the backend and frontend together. We talked about the recommendation system. After the image function tested well, I add the event image to the landing page and user icon to the buttons and watchlist so that users can distinguish one event or user from others.
+During the final phase of development I fixed some minor bugs (mostly in frontend). I also add the token generation to the backend, and the backend will update the token every time the user login and send the the token to frontend which will store it locally.
+Write the report.
