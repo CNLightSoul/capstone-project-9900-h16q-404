@@ -27,6 +27,10 @@ Ensure that the following programs are installed:
 
 ### Run backend
 
+Navigate to backend folder:
+
+$ cd backend
+
 Install required backend libraries:
 
 $ pip install -r backend_requirements.txt
